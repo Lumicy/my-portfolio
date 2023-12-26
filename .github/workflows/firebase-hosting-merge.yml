@@ -53,4 +53,4 @@ jobs:
           channelId: live
           projectId: lumicy-portfolio
         env:
-          FIREBASE_CLI_PREVIEWS:hostingchannels
+          FIREBASE_CLI_PREVIEWS: hostingchannels
